@@ -154,7 +154,7 @@
         },
         {
           "file": "src/app/app.component.html",
-          "hash": "9777074567724138157"
+          "hash": "10634254909755021923"
         },
         {
           "file": "src/app/app.component.scss",
@@ -169,7 +169,7 @@
         },
         {
           "file": "src/app/app.component.ts",
-          "hash": "7884315284108720846",
+          "hash": "11916954621605832277",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
@@ -241,6 +241,21 @@
         {
           "file": "tsconfig.spec.json",
           "hash": "15575553540147145788"
+        },
+        {
+          "file": "src/app/square/square.component.spec.ts",
+          "hash": "12815626142380738011",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/square/square.component.ts",
+          "hash": "2701315503678142376",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
         }
       ]
     }
