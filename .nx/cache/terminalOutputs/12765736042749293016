@@ -1,0 +1,623 @@
+[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[36m⠋[39m Building...[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mexpected "{".[39m[22m
+[1m[31m  ╷[39m[22m
+[1m[31m1 │ ./board.component.scss[39m[22m
+[1m[31m  │                       ^[39m[22m
+[1m[31m  ╵[39m[22m
+[1m[31m  src/app/board/board.component.ts 1:23  root stylesheet[0m [1m[35m[plugin angular-sass][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[37mApplication bundle generation failed. [2.602 seconds][39m
+[37mWatch mode enabled. Watching for file changes...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mexpected "{".[39m[22m
+[1m[31m  ╷[39m[22m
+[1m[31m1 │ ./board.component.scss[39m[22m
+[1m[31m  │                       ^[39m[22m
+[1m[31m  ╵[39m[22m
+[1m[31m  src/app/board/board.component.ts 1:23  root stylesheet[0m [1m[35m[plugin angular-sass][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[37mApplication bundle generation failed. [0.304 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m[1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m[96m82.71 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m [96m4.36 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m96 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m87.17 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.218 seconds][39m
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-sqaure' is not a known element:[39m[22m
+[1m[31m1. If 'app-sqaure' is an Angular component, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-sqaure' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:8:2:[39m[22m
+[1m[31m[37m      8 │   [32m<app-sqaure[37m[39m[22m
+[1m[31m        ╵   [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'value' since it isn't a known property of 'app-sqaure'.[39m[22m
+[1m[31m1. If 'app-sqaure' is an Angular component and it has 'value' input, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-sqaure' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[39m[22m
+[1m[31m3. To allow any property add 'NO_ERRORS_SCHEMA' to the '@Component.schemas' of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:10:4:[39m[22m
+[1m[31m[37m      10 │     [32m[value]="'val"[37m[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Parser Error: Lexer Error: Unterminated quote at column 4 in expression ['val] at column 5 in ['val] in /Users/kojieguchi/Desktop/practice/tic-tac-toe/src/app/board/board.component.html@9:13[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:10[39m[22m[1m[31m:13:[39m[22m
+[1m[31m[37m      10 │     [value]="[32m'val[37m"[39m[22m
+[1m[31m         ╵              [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Parser Error: Unexpected token Lexer Error: Unterminated quote at column 4 in expression ['val] at column 5 in ['val] in /Users/kojieguchi/Desktop/practice/tic-tac-toe/src/app/board/board.component.html@9:13[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:10:13:[39m[22m
+[1m[31m[37m      10 │     [value]="[32m'val[37m"[39m[22m
+[1m[31m         ╵              [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Parser Error: Lexer Error: Unterminated quote at column 4 in expression ['val] at column 5 in ['val] in /Users/kojieguchi/Desktop/practice/tic-tac-toe/src/app/board/board.component.html@9:13[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:11:13:[39m[22m
+[1m[31m[37m      11 │     (click)="[32mmakeMove(i)[37m">[39m[22m
+[1m[31m         ╵              [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Parser Error: Unexpected token Lexer Error: Unterminated quote at column 4 in expression ['val] at column 5 in ['val] in /Users/kojieguchi/Desktop/practice/tic-tac-toe/src/app/board/board.component.html@9:13[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:[39m[22m[1m[31m11:13:[39m[22m
+[1m[31m[37m      11 │     (click)="[32mmakeMove(i)[37m">[39m[22m
+[1m[31m         ╵              [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'i' does not exist on type 'BoardComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:11:22:[39m[22m
+[1m[31m[37m      11 │     (click)="makeMove([32mi[37m)">[39m[22m
+[1m[31m         ╵                       [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mFile 'src/app/board/board.component.ts' is missing from the TypeScript compilation.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.component.ts:5:31:[39m[22m
+[1m[31m[37m      5 │ import { BoardComponent } from [32m"./board/board.component"[37m;[39m[22m
+[1m[31m        ╵                                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Ensure the file is part of the TypeScript program via the 'files' or 'include' property.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.189 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[36m⠼[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-sqaure' is not a known element:[39m[22m
+[1m[31m1. If 'app-sqaure' is an Angular component, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-sqaure' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:8:2:[39m[22m
+[1m[31m[37m      8 │   [32m<app-sqaure[37m[39m[22m
+[1m[31m        ╵   [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'value' since it isn't a known property of 'app-sqaure'.[39m[22m
+[1m[31m1. If 'app-sqaure' is an Angular component and it has 'value' input, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-sqaure' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[39m[22m
+[1m[31m3. To allow any property add 'NO_ERRORS_SCHEMA' to the '@Component.schemas' of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:10:4:[39m[22m
+[1m[31m[37m      10 │     [32m[value]="'val"[37m[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Parser Error: Lexer Error: Unterminated quote at column 4 in expression ['val] at column 5 in ['val] in /Users/kojieguchi/Desktop/practice/tic-tac-toe/src/app/board/board.component.html@9:13[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:10[39m[22m[1m[31m:13:[39m[22m
+[1m[31m[37m      10 │     [value]="[32m'val[37m"[39m[22m
+[1m[31m         ╵              [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Parser Error: Unexpected token Lexer Error: Unterminated quote at column 4 in expression ['val] at column 5 in ['val] in /Users/kojieguchi/Desktop/practice/tic-tac-toe/src/app/board/board.component.html@9:13[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:10:13:[39m[22m
+[1m[31m[37m      10 │     [value]="[32m'val[37m"[39m[22m
+[1m[31m         ╵              [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Parser Error: Lexer Error: Unterminated quote at column 4 in expression ['val] at column 5 in ['val] in /Users/kojieguchi/Desktop/practice/tic-tac-toe/src/app/board/board.component.html@9:13[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:11:13:[39m[22m
+[1m[31m[37m      11 │     (click)="[32mmakeMove(i)[37m">[39m[22m
+[1m[31m         ╵              [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Parser Error: Unexpected token Lexer Error: Unterminated quote at column 4 in expression ['val] at column 5 in ['val] in /Users/kojieguchi/Desktop/practice/tic-tac-toe/src/app/board/board.component.html@9:13[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:[39m[22m[1m[31m11:13:[39m[22m
+[1m[31m[37m      11 │     (click)="[32mmakeMove(i)[37m">[39m[22m
+[1m[31m         ╵              [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.363 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-square' is not a known element:[39m[22m
+[1m[31m1. If 'app-square' is an Angular component, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:8:2:[39m[22m
+[1m[31m[37m      8 │   [32m<app-square[37m[39m[22m
+[1m[31m        ╵   [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'value' since it isn't a known property of 'app-square'.[39m[22m
+[1m[31m1. If 'app-square' is an Angular component and it has 'value' input, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[39m[22m
+[1m[31m3. To allow any property add 'NO_ERRORS_SCHEMA' to the '@Component.schemas' of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:10:4:[39m[22m
+[1m[31m[37m      10 │     [32m[value]="val"[37m[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.192 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[36m⠼[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS-992011: The component 'SquareComponent' appears in 'imports', but is not standalone and cannot be imported directly. It must be imported via an NgModule.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.component.ts:12:42:[39m[22m
+[1m[31m[37m      12 │ ...rts: [CommonModule, RouterOutlet, [32mSquareComponent[37m, BoardComponent][39m[22m
+[1m[31m         ╵                                      [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-square' is not a known element:[39m[22m
+[1m[31m1. If 'app-square' is an Angular component, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:8:2:[39m[22m
+[1m[31m[37m      8 │   [32m<app-square[37m[39m[22m
+[1m[31m        ╵   [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'value' since it isn't a known property of 'app-square'.[39m[22m
+[1m[31m1. If 'app-square' is an Angular component and it has 'value' input, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[39m[22m
+[1m[31m3. To allow any property add 'NO_ERRORS_SCHEMA' to the '@Component.schemas' of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:10:4:[39m[22m
+[1m[31m[37m      10 │     [32m[value]="val"[37m[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m[39m[22m[1m[31m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.321 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS-992011: The component 'SquareComponent' appears in 'imports', but is not standalone and cannot be imported directly. It must be imported via an NgModule.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.component.ts:12:42:[39m[22m
+[1m[31m[37m      12 │ ...rts: [CommonModule, RouterOutlet, [32mSquareComponent[37m, BoardComponent][39m[22m
+[1m[31m         ╵                                      [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-square' is not a known element:[39m[22m
+[1m[31m1. If 'app-square' is an Angular component, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:8:2:[39m[22m
+[1m[31m[37m      8 │   [32m<app-square[37m[39m[22m
+[1m[31m        ╵   [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'value' since it isn't a known property of 'app-square'.[39m[22m
+[1m[31m1. If 'app-square' is an Angular component and it has 'value' input, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[39m[22m
+[1m[31m3. To allow any property add 'NO_ERRORS_SCHEMA' to the '@Component.schemas' of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:10:4:[39m[22m
+[1m[31m[37m      10 │     [32m[value]="val"[37m[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m[39m[22m[1m[31m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.211 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS-992011: The component 'SquareComponent' appears in 'imports', but is not standalone and cannot be imported directly. It must be imported via an NgModule.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.component.ts:12:42:[39m[22m
+[1m[31m[37m      12 │ ...rts: [CommonModule, RouterOutlet, [32mSquareComponent[37m, BoardComponent][39m[22m
+[1m[31m         ╵                                      [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-square' is not a known element:[39m[22m
+[1m[31m1. If 'app-square' is an Angular component, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:8:2:[39m[22m
+[1m[31m[37m      8 │   [32m<app-square[37m[39m[22m
+[1m[31m        ╵   [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'value' since it isn't a known property of 'app-square'.[39m[22m
+[1m[31m1. If 'app-square' is an Angular component and it has 'value' input, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[39m[22m
+[1m[31m3. To allow any property add 'NO_ERRORS_SCHEMA' to the '@Component.schemas' of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:10:4:[39m[22m
+[1m[31m[37m      10 │     [32m[value]="val"[37m[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m[39m[22m[1m[31m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.231 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS-992011: The component 'SquareComponent' appears in 'imports', but is not standalone and cannot be imported directly. It must be imported via an NgModule.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.component.ts:12:42:[39m[22m
+[1m[31m[37m      12 │ ...rts: [CommonModule, RouterOutlet, [32mSquareComponent[37m, BoardComponent][39m[22m
+[1m[31m         ╵                                      [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-square' is not a known element:[39m[22m
+[1m[31m1. If 'app-square' is an Angular component, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:8:2:[39m[22m
+[1m[31m[37m      8 │   [32m<app-square[37m[39m[22m
+[1m[31m        ╵   [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'value' since it isn't a known property of 'app-square'.[39m[22m
+[1m[31m1. If 'app-square' is an Angular component and it has 'value' input, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[39m[22m
+[1m[31m3. To allow any property add 'NO_ERRORS_SCHEMA' to the '@Component.schemas' of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:10:4:[39m[22m
+[1m[31m[37m      10 │     [32m[value]="val"[37m[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m[39m[22m[1m[31m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.203 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS-992011: The component 'SquareComponent' appears in 'imports', but is not standalone and cannot be imported directly. It must be imported via an NgModule.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.component.ts:12:42:[39m[22m
+[1m[31m[37m      12 │ ...rts: [CommonModule, RouterOutlet, [32mSquareComponent[37m, BoardComponent][39m[22m
+[1m[31m         ╵                                      [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-square' is not a known element:[39m[22m
+[1m[31m1. If 'app-square' is an Angular component, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:12:4:[39m[22m
+[1m[31m[37m      12 │     [32m<app-square[37m[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'value' since it isn't a known property of 'app-square'.[39m[22m
+[1m[31m1. If 'app-square' is an Angular component and it has 'value' input, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[39m[22m
+[1m[31m3. To allow any property add 'NO_ERRORS_SCHEMA' to the '@Component.schemas' of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:14:8:[39m[22m
+[1m[31m[37m      14 │         [32m[value]="val"[37m[39m[22m
+[1m[31m         ╵         [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component[39m[22m[1m[31m.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.261 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS-992011: The component 'SquareComponent' appears in 'imports', but is not standalone and cannot be imported directly. It must be imported via an NgModule.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.component.ts:12:42:[39m[22m
+[1m[31m[37m      12 │ ...rts: [CommonModule, RouterOutlet, [32mSquareComponent[37m, BoardComponent][39m[22m
+[1m[31m         ╵                                      [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mFile 'src/app/board/board.component.ts' is missing from the TypeScript compilation.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.component.ts:5:31:[39m[22m
+[1m[31m[37m      5 │ import { BoardComponent } from [32m"./board/board.component"[37m;[39m[22m
+[1m[31m        ╵                                [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Ensure the file is part of the TypeScript program via the 'files' or 'include' property.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.146 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[36m⠼[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS-992011: The component 'SquareComponent' appears in 'imports', but is not standalone and cannot be imported directly. It must be imported via an NgModule.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.component.ts:12:42:[39m[22m
+[1m[31m[37m      12 │ ...rts: [CommonModule, RouterOutlet, [32mSquareComponent[37m, BoardComponent][39m[22m
+[1m[31m         ╵                                      [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-square' is not a known element:[39m[22m
+[1m[31m1. If 'app-square' is an Angular component, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:12:4:[39m[22m
+[1m[31m[37m      12 │     [32m<app-square[37m[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'value' since it isn't a known property of 'app-square'.[39m[22m
+[1m[31m1. If 'app-square' is an Angular component and it has 'value' input, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[39m[22m
+[1m[31m3. To allow any property add 'NO_ERRORS_SCHEMA' to the '@Component.schemas' of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:14:8:[39m[22m
+[1m[31m[37m      14 │         [32m[value]="val"[37m[39m[22m
+[1m[31m         ╵         [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component[39m[22m[1m[31m.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.332 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[36m⠼[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-square' is not a known element:[39m[22m
+[1m[31m1. If 'app-square' is an Angular component, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:12:4:[39m[22m
+[1m[31m[37m      12 │     [32m<app-square[37m[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'value' since it isn't a known property of 'app-square'.[39m[22m
+[1m[31m1. If 'app-square' is an Angular component and it has 'value' input, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[39m[22m
+[1m[31m3. To allow any property add 'NO_ERRORS_SCHEMA' to the '@Component.schemas' of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:14:8:[39m[22m
+[1m[31m[37m      14 │         [32m[value]="val"[37m[39m[22m
+[1m[31m         ╵         [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.338 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m[1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m[96m82.71 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m [96m6.54 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m96 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m89.34 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.294 seconds][39m
+[37mReloading client(s)...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-square' is not a known element:[39m[22m
+[1m[31m1. If 'app-square' is an Angular component, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:12:4:[39m[22m
+[1m[31m[37m      12 │     [32m<app-square[37m[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG8002: Can't bind to 'value' since it isn't a known property of 'app-square'.[39m[22m
+[1m[31m1. If 'app-square' is an Angular component and it has 'value' input, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-square' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[39m[22m
+[1m[31m3. To allow any property add 'NO_ERRORS_SCHEMA' to the '@Component.schemas' of this component.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:14:8:[39m[22m
+[1m[31m[37m      14 │         [32m[value]="val"[37m[39m[22m
+[1m[31m         ╵         [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:15:[39m[22m
+[1m[31m[37m      8 │   templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.196 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m[1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m[96m82.71 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m [96m6.54 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m96 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m89.34 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.171 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG2: Type 'string' is not assignable to type '"X" | "O"'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:14:9:[39m[22m
+[1m[31m[37m      14 │         [[32mvalue[37m]="val"[39m[22m
+[1m[31m         ╵          [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.315 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG2: Type 'string' is not assignable to type '"X" | "O"'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.html:14:9:[39m[22m
+[1m[31m[37m      14 │         [[32mvalue[37m]="val"[39m[22m
+[1m[31m         ╵          [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component BoardComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/board/board.component.ts:8:17:[39m[22m
+[1m[31m[37m      8 │     templateUrl: [32m'./board.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.321 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[36m⠼[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m[1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m[96m82.71 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m [96m9.43 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m96 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m92.23 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.367 seconds][39m
+[37mReloading client(s)...[39m

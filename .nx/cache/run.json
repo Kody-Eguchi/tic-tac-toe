@@ -1,8 +1,8 @@
 {
   "run": {
     "command": "nx run tic-tac-toe:serve:development",
-    "startTime": "2023-11-11T22:00:52.168Z",
-    "endTime": "2023-11-11T22:07:43.632Z",
+    "startTime": "2023-11-11T22:54:05.180Z",
+    "endTime": "2023-11-11T22:54:59.728Z",
     "inner": false
   },
   "tasks": [
@@ -10,9 +10,9 @@
       "taskId": "tic-tac-toe:serve:development",
       "target": "serve",
       "projectName": "tic-tac-toe",
-      "hash": "13190505033083556889",
-      "startTime": "2023-11-11T22:00:52.172Z",
-      "endTime": "2023-11-11T22:07:43.632Z",
+      "hash": "9853767263968747187",
+      "startTime": "2023-11-11T22:54:05.183Z",
+      "endTime": "2023-11-11T22:54:59.727Z",
       "params": "",
       "cacheStatus": "cache-miss",
       "status": 1

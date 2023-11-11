@@ -154,7 +154,7 @@
         },
         {
           "file": "src/app/app.component.html",
-          "hash": "10634254909755021923"
+          "hash": "2553116541527045626"
         },
         {
           "file": "src/app/app.component.scss",
@@ -169,7 +169,7 @@
         },
         {
           "file": "src/app/app.component.ts",
-          "hash": "11916954621605832277",
+          "hash": "17612011155390502991",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
@@ -236,7 +236,7 @@
         },
         {
           "file": "tsconfig.json",
-          "hash": "10482845161311252346"
+          "hash": "12373433611003817294"
         },
         {
           "file": "tsconfig.spec.json",
@@ -251,11 +251,34 @@
         },
         {
           "file": "src/app/square/square.component.ts",
-          "hash": "2701315503678142376",
+          "hash": "12364547472463877984",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common"
           ]
+        },
+        {
+          "file": "src/app/board/board.component.ts",
+          "hash": "12757146663989852328",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "src/app/board/board.component.spec.ts",
+          "hash": "9401500074195104457",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/board/board.component.html",
+          "hash": "11076768979000406752"
+        },
+        {
+          "file": "src/app/board/board.component.scss",
+          "hash": "5632695556246607427"
         }
       ]
     }

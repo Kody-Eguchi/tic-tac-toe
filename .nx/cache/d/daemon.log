@@ -453,3 +453,429 @@
 [NX Daemon Server] - 2023-11-11T22:10:49.537Z - [REQUEST]: 
 [NX Daemon Server] - 2023-11-11T22:10:49.568Z - Time taken for 'hash changed files from watcher' 0.35329246520996094ms
 [NX Daemon Server] - 2023-11-11T22:10:49.744Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:22:19.877Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:22:19.878Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:22:20.296Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:22:20.296Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-11-11T22:22:20.296Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:22:20.319Z - Time taken for 'hash changed files from watcher' 1.1217918395996094ms
+[NX Daemon Server] - 2023-11-11T22:22:20.396Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:22:37.477Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:22:37.477Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:22:38.017Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:22:38.292Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:22:38.292Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-11-11T22:22:38.292Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:22:38.327Z - Time taken for 'hash changed files from watcher' 0.31012487411499023ms
+[NX Daemon Server] - 2023-11-11T22:24:05.390Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-11-11T22:24:05.391Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:24:05.992Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:24:07.012Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:24:07.013Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2023-11-11T22:24:07.013Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:24:07.062Z - Time taken for 'hash changed files from watcher' 0.39391613006591797ms
+[NX Daemon Server] - 2023-11-11T22:24:32.361Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:24:32.361Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:24:32.995Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:24:35.594Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:24:35.594Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-11-11T22:24:35.594Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:24:35.632Z - Time taken for 'hash changed files from watcher' 0.8445830345153809ms
+[NX Daemon Server] - 2023-11-11T22:25:11.349Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-11-11T22:25:11.349Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2023-11-11T22:25:11.350Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-11-11T22:25:11.351Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:25:11.351Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:25:11.352Z - Time taken for 'total for creating and serializing project graph' 0.11362504959106445ms
+[NX Daemon Server] - 2023-11-11T22:25:11.354Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:25:11.354Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2023-11-11T22:25:11.690Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-11-11T22:25:22.785Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-11-11T22:25:22.785Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-11-11T22:25:22.785Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-11-11T22:25:22.787Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:25:22.787Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:25:22.788Z - Time taken for 'total for creating and serializing project graph' 0.09549999237060547ms
+[NX Daemon Server] - 2023-11-11T22:25:22.789Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:25:22.789Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-11T22:25:23.089Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-11-11T22:25:23.149Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:25:23.150Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-11T22:25:23.262Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:25:23.262Z - [REQUEST]: src/app/board/board.component.ts,src/app/board/board.component.spec.ts
+[NX Daemon Server] - 2023-11-11T22:25:23.262Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:25:23.286Z - Time taken for 'hash changed files from watcher' 0.2695002555847168ms
+[NX Daemon Server] - 2023-11-11T22:27:43.350Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:27:43.351Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:27:43.572Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:27:43.573Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-11-11T22:27:43.573Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:27:43.603Z - Time taken for 'hash changed files from watcher' 0.8260831832885742ms
+[NX Daemon Server] - 2023-11-11T22:33:44.389Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:33:44.390Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:33:44.812Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:33:44.812Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-11-11T22:33:44.812Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:33:44.837Z - Time taken for 'hash changed files from watcher' 1.4552083015441895ms
+[NX Daemon Server] - 2023-11-11T22:35:00.887Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:35:00.897Z - [WATCHER]: src/app/board/board.compoenent.html was created or restored
+[NX Daemon Server] - 2023-11-11T22:35:01.007Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:35:01.007Z - [REQUEST]: src/app/board/board.compoenent.html
+[NX Daemon Server] - 2023-11-11T22:35:01.007Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:35:01.030Z - Time taken for 'hash changed files from watcher' 0.2785830497741699ms
+[NX Daemon Server] - 2023-11-11T22:36:09.871Z - [WATCHER]: src/app/board/board.compoenent.html was modified
+[NX Daemon Server] - 2023-11-11T22:36:09.871Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:36:10.088Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:36:10.088Z - [REQUEST]: src/app/board/board.compoenent.html
+[NX Daemon Server] - 2023-11-11T22:36:10.088Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:36:10.112Z - Time taken for 'hash changed files from watcher' 0.46400022506713867ms
+[NX Daemon Server] - 2023-11-11T22:38:26.701Z - [WATCHER]: 0 file(s) created or restored, 1 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-11-11T22:38:26.702Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:38:27.119Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:38:27.119Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-11-11T22:38:27.120Z - [REQUEST]: src/app/board/board.compoenent.html
+[NX Daemon Server] - 2023-11-11T22:38:27.150Z - Time taken for 'hash changed files from watcher' 0.4082918167114258ms
+[NX Daemon Server] - 2023-11-11T22:39:03.494Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-11-11T22:39:03.494Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:39:04.312Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:39:04.312Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-11-11T22:39:04.312Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:39:04.338Z - Time taken for 'hash changed files from watcher' 0.6102919578552246ms
+[NX Daemon Server] - 2023-11-11T22:39:47.139Z - [WATCHER]: src/app/board/board.component.scss was created or restored
+[NX Daemon Server] - 2023-11-11T22:39:47.139Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:39:47.248Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:39:47.248Z - [REQUEST]: src/app/board/board.component.scss
+[NX Daemon Server] - 2023-11-11T22:39:47.248Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:39:47.269Z - Time taken for 'hash changed files from watcher' 0.2416248321533203ms
+[NX Daemon Server] - 2023-11-11T22:39:49.022Z - [WATCHER]: src/app/board/board.component.scss was modified
+[NX Daemon Server] - 2023-11-11T22:39:49.022Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:39:49.239Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:39:49.239Z - [REQUEST]: src/app/board/board.component.scss
+[NX Daemon Server] - 2023-11-11T22:39:49.239Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:39:49.265Z - Time taken for 'hash changed files from watcher' 0.6379580497741699ms
+[NX Daemon Server] - 2023-11-11T22:41:48.059Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:41:48.059Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:41:48.478Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:41:48.479Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-11-11T22:41:48.479Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:41:48.502Z - Time taken for 'hash changed files from watcher' 0.5052089691162109ms
+[NX Daemon Server] - 2023-11-11T22:42:49.030Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-11-11T22:42:49.031Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:42:49.844Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:42:49.844Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2023-11-11T22:42:49.844Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:42:49.867Z - Time taken for 'hash changed files from watcher' 0.16300010681152344ms
+[NX Daemon Server] - 2023-11-11T22:42:56.509Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-11-11T22:42:56.510Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:42:56.943Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:42:58.121Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:42:58.121Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2023-11-11T22:42:58.121Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:42:58.143Z - Time taken for 'hash changed files from watcher' 0.2673330307006836ms
+[NX Daemon Server] - 2023-11-11T22:42:58.206Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:42:58.206Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:42:58.584Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:43:01.426Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:43:01.426Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2023-11-11T22:43:01.426Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:43:01.453Z - Time taken for 'hash changed files from watcher' 0.8607497215270996ms
+[NX Daemon Server] - 2023-11-11T22:43:22.423Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-11-11T22:43:22.424Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:43:23.142Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:43:28.835Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:43:28.835Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2023-11-11T22:43:28.835Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:43:28.860Z - Time taken for 'hash changed files from watcher' 0.3334999084472656ms
+[NX Daemon Server] - 2023-11-11T22:44:32.961Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:44:32.964Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:44:33.480Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:44:39.376Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:44:39.376Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-11-11T22:44:39.377Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:44:39.397Z - Time taken for 'hash changed files from watcher' 0.2956247329711914ms
+[NX Daemon Server] - 2023-11-11T22:50:53.982Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:50:53.983Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:51:00.405Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:51:00.406Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-11-11T22:51:00.406Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:51:00.433Z - Time taken for 'hash changed files from watcher' 0.7735004425048828ms
+[NX Daemon Server] - 2023-11-11T22:53:20.302Z - [WATCHER]: tsconfig.json was modified
+[NX Daemon Server] - 2023-11-11T22:53:20.302Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:53:25.193Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:53:25.194Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:53:26.712Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:53:26.712Z - [REQUEST]: tsconfig.json,src/app/board/board.component.ts
+[NX Daemon Server] - 2023-11-11T22:53:26.712Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:53:26.731Z - Time taken for 'hash changed files from watcher' 0.2730412483215332ms
+[NX Daemon Server] - 2023-11-11T22:53:27.065Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:53:50.472Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-11T22:53:50.527Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-11T22:54:02.208Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-11T22:54:02.208Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-11T22:54:02.208Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-11T22:54:02.210Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:54:02.210Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:54:02.211Z - Time taken for 'total for creating and serializing project graph' 0.11887502670288086ms
+[NX Daemon Server] - 2023-11-11T22:54:02.213Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:54:02.213Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2023-11-11T22:54:02.229Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:54:02.229Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:54:02.230Z - Time taken for 'total for creating and serializing project graph' 0.08387517929077148ms
+[NX Daemon Server] - 2023-11-11T22:54:02.231Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:54:02.231Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-11T22:54:02.234Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:54:02.234Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:54:02.236Z - Time taken for 'total for creating and serializing project graph' 0.1222076416015625ms
+[NX Daemon Server] - 2023-11-11T22:54:02.236Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:54:02.236Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-11T22:54:02.261Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-11-11T22:54:02.261Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-11-11T22:54:02.261Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-11-11T22:54:02.278Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-11T22:54:02.611Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-11T22:54:02.611Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-11T22:54:02.611Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-11T22:54:02.612Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:54:02.612Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:54:02.613Z - Time taken for 'total for creating and serializing project graph' 0.058750152587890625ms
+[NX Daemon Server] - 2023-11-11T22:54:02.616Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:54:02.616Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2023-11-11T22:54:02.627Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:54:02.627Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:54:02.629Z - Time taken for 'total for creating and serializing project graph' 0.10333395004272461ms
+[NX Daemon Server] - 2023-11-11T22:54:02.629Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:54:02.629Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-11T22:54:02.632Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:54:02.633Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:54:02.633Z - Time taken for 'total for creating and serializing project graph' 0.08162498474121094ms
+[NX Daemon Server] - 2023-11-11T22:54:02.634Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:54:02.634Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2023-11-11T22:54:02.659Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-11-11T22:54:02.659Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-11-11T22:54:02.659Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2023-11-11T22:54:02.677Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-11T22:54:04.845Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-11T22:54:04.845Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-11T22:54:04.846Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-11T22:54:04.847Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:54:04.847Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:54:04.848Z - Time taken for 'total for creating and serializing project graph' 0.07929229736328125ms
+[NX Daemon Server] - 2023-11-11T22:54:04.851Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:54:04.851Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2023-11-11T22:54:04.893Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-11-11T22:54:04.893Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-11-11T22:54:04.893Z - Handled HASH_TASKS. Handling time: 16. Response time: 0.
+[NX Daemon Server] - 2023-11-11T22:54:05.404Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-11-11T22:54:05.405Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-11T22:54:05.405Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-11-11T22:54:05.406Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:54:05.406Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:54:05.407Z - Time taken for 'total for creating and serializing project graph' 0.06024980545043945ms
+[NX Daemon Server] - 2023-11-11T22:54:05.410Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:54:05.410Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2023-11-11T22:54:07.290Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:54:22.390Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:54:22.392Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:54:22.511Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:54:22.511Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-11-11T22:54:22.511Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:54:22.538Z - Time taken for 'hash changed files from watcher' 1.0641250610351562ms
+[NX Daemon Server] - 2023-11-11T22:54:22.852Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:54:53.156Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-11-11T22:54:53.156Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2023-11-11T22:54:53.157Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-11-11T22:54:53.158Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:54:53.158Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:54:53.159Z - Time taken for 'total for creating and serializing project graph' 0.06424999237060547ms
+[NX Daemon Server] - 2023-11-11T22:54:53.162Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:54:53.162Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2023-11-11T22:54:53.176Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:54:53.176Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:54:53.177Z - Time taken for 'total for creating and serializing project graph' 0.07879209518432617ms
+[NX Daemon Server] - 2023-11-11T22:54:53.178Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:54:53.178Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-11T22:54:53.190Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:54:53.190Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:54:53.191Z - Time taken for 'total for creating and serializing project graph' 0.09479093551635742ms
+[NX Daemon Server] - 2023-11-11T22:54:53.192Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:54:53.192Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-11T22:54:53.217Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-11-11T22:54:53.217Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-11-11T22:54:53.217Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2023-11-11T22:54:53.235Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-11-11T22:54:53.567Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-11-11T22:54:53.567Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-11-11T22:54:53.567Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-11-11T22:54:53.568Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:54:53.568Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:54:53.569Z - Time taken for 'total for creating and serializing project graph' 0.07154083251953125ms
+[NX Daemon Server] - 2023-11-11T22:54:53.574Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:54:53.574Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 6.
+[NX Daemon Server] - 2023-11-11T22:54:53.580Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:54:53.580Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:54:53.581Z - Time taken for 'total for creating and serializing project graph' 0.08325004577636719ms
+[NX Daemon Server] - 2023-11-11T22:54:53.582Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:54:53.582Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-11T22:54:53.586Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:54:53.586Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:54:53.586Z - Time taken for 'total for creating and serializing project graph' 0.09520769119262695ms
+[NX Daemon Server] - 2023-11-11T22:54:53.587Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:54:53.587Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2023-11-11T22:54:53.611Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-11-11T22:54:53.611Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-11-11T22:54:53.611Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-11-11T22:54:53.629Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-11-11T22:54:59.723Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-11T22:54:59.726Z - [REQUEST]: Responding to the client. recordOutputsHash
+[NX Daemon Server] - 2023-11-11T22:54:59.726Z - Done responding to the client recordOutputsHash
+[NX Daemon Server] - 2023-11-11T22:54:59.726Z - Handled RECORD_OUTPUTS_HASH. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-11-11T22:54:59.760Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-11T22:55:04.646Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-11T22:55:04.647Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-11T22:55:04.647Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-11T22:55:04.649Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:55:04.649Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:55:04.650Z - Time taken for 'total for creating and serializing project graph' 0.08404111862182617ms
+[NX Daemon Server] - 2023-11-11T22:55:04.653Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:55:04.653Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2023-11-11T22:55:04.694Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-11-11T22:55:04.695Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-11-11T22:55:04.695Z - Handled HASH_TASKS. Handling time: 16. Response time: 1.
+[NX Daemon Server] - 2023-11-11T22:55:04.937Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-11-11T22:55:04.937Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-11T22:55:04.937Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-11-11T22:55:04.938Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-11T22:55:04.938Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-11T22:55:04.939Z - Time taken for 'total for creating and serializing project graph' 0.07420778274536133ms
+[NX Daemon Server] - 2023-11-11T22:55:04.942Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-11T22:55:04.942Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2023-11-11T22:55:06.486Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:56:17.266Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:56:17.267Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:56:17.383Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:56:17.383Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-11-11T22:56:17.383Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:56:17.404Z - Time taken for 'hash changed files from watcher' 0.4877920150756836ms
+[NX Daemon Server] - 2023-11-11T22:56:17.873Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:56:30.406Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:56:30.406Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:56:30.627Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:56:30.627Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-11-11T22:56:30.627Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:56:30.658Z - Time taken for 'hash changed files from watcher' 0.6429166793823242ms
+[NX Daemon Server] - 2023-11-11T22:56:30.803Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:56:52.697Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:56:52.701Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:56:53.116Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:56:53.116Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-11-11T22:56:53.116Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:56:53.146Z - Time taken for 'hash changed files from watcher' 0.5100002288818359ms
+[NX Daemon Server] - 2023-11-11T22:56:53.313Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:57:41.712Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-11-11T22:57:41.713Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:57:42.417Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:57:42.524Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:57:42.524Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-11-11T22:57:42.524Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:57:42.544Z - Time taken for 'hash changed files from watcher' 0.23325014114379883ms
+[NX Daemon Server] - 2023-11-11T22:58:03.517Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-11-11T22:58:03.518Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:58:04.405Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:58:05.139Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:58:05.139Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-11-11T22:58:05.139Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:58:05.167Z - Time taken for 'hash changed files from watcher' 1.012125015258789ms
+[NX Daemon Server] - 2023-11-11T22:59:02.689Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:59:02.690Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:59:03.331Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:59:05.913Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T22:59:05.913Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-11-11T22:59:05.913Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T22:59:05.943Z - Time taken for 'hash changed files from watcher' 0.9689998626708984ms
+[NX Daemon Server] - 2023-11-11T22:59:55.380Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-11-11T22:59:55.380Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T22:59:56.193Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:00:01.802Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T23:00:01.802Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-11-11T23:00:01.802Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T23:00:01.828Z - Time taken for 'hash changed files from watcher' 0.8645420074462891ms
+[NX Daemon Server] - 2023-11-11T23:00:38.239Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-11-11T23:00:38.240Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:00:38.892Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:00:44.651Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T23:00:44.651Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-11-11T23:00:44.651Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T23:00:44.673Z - Time taken for 'hash changed files from watcher' 0.28020811080932617ms
+[NX Daemon Server] - 2023-11-11T23:00:46.207Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-11-11T23:00:46.208Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:00:46.669Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:00:52.628Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T23:00:52.628Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-11-11T23:00:52.628Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T23:00:52.659Z - Time taken for 'hash changed files from watcher' 1.0004172325134277ms
+[NX Daemon Server] - 2023-11-11T23:01:18.302Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-11-11T23:01:18.302Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:01:24.723Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T23:01:24.723Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-11-11T23:01:24.723Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T23:01:24.753Z - Time taken for 'hash changed files from watcher' 0.7779169082641602ms
+[NX Daemon Server] - 2023-11-11T23:02:13.309Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-11-11T23:02:13.309Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:02:13.803Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:02:19.721Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T23:02:19.721Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-11-11T23:02:19.721Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T23:02:19.739Z - Time taken for 'hash changed files from watcher' 0.31183338165283203ms
+[NX Daemon Server] - 2023-11-11T23:02:52.270Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-11-11T23:02:52.270Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:02:52.936Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:02:58.696Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T23:02:58.696Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-11-11T23:02:58.696Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T23:02:58.725Z - Time taken for 'hash changed files from watcher' 0.7699999809265137ms
+[NX Daemon Server] - 2023-11-11T23:24:35.105Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-11-11T23:24:35.106Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:24:35.687Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:24:41.517Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T23:24:41.517Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-11-11T23:24:41.517Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T23:24:41.537Z - Time taken for 'hash changed files from watcher' 0.24762487411499023ms
+[NX Daemon Server] - 2023-11-11T23:26:23.336Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-11-11T23:26:23.337Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:26:29.759Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T23:26:29.760Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-11-11T23:26:29.760Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T23:26:29.787Z - Time taken for 'hash changed files from watcher' 0.6113333702087402ms
+[NX Daemon Server] - 2023-11-11T23:26:54.085Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-11-11T23:26:54.086Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:27:00.499Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T23:27:00.499Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-11-11T23:27:00.499Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T23:27:00.519Z - Time taken for 'hash changed files from watcher' 0.236083984375ms
+[NX Daemon Server] - 2023-11-11T23:27:01.504Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-11-11T23:27:01.504Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:27:07.937Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T23:27:07.939Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-11-11T23:27:07.939Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T23:27:07.973Z - Time taken for 'hash changed files from watcher' 0.6752500534057617ms
+[NX Daemon Server] - 2023-11-11T23:36:01.754Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-11-11T23:36:01.755Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:36:02.638Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:36:08.175Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T23:36:08.175Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-11-11T23:36:08.175Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T23:36:08.204Z - Time taken for 'hash changed files from watcher' 0.46591711044311523ms
+[NX Daemon Server] - 2023-11-11T23:38:24.101Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-11-11T23:38:24.104Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:38:24.790Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:38:30.525Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T23:38:30.525Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-11-11T23:38:30.525Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T23:38:30.552Z - Time taken for 'hash changed files from watcher' 0.586583137512207ms
+[NX Daemon Server] - 2023-11-11T23:44:38.779Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-11-11T23:44:38.780Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:44:39.365Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-11T23:44:45.197Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-11T23:44:45.197Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-11-11T23:44:45.197Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-11T23:44:45.220Z - Time taken for 'hash changed files from watcher' 0.5819168090820312ms
